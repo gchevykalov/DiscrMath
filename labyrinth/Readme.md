@@ -1,0 +1,1 @@
+Simulation of the movement of a person in a maze, about which nothing is known in advance (NOT the search for the shortest path). Viewing range - one cell.

@@ -1,0 +1,1 @@
+Implementation of work with a set on a singly linked list.
